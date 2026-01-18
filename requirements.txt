@@ -3,7 +3,8 @@ streamlit-option-menu
 langchain
 langchain-groq
 langchain-huggingface
+langchain-text-splitters
 huggingface-hub
 python-dotenv
 faiss-cpu
-pypdf2
+PyPDF2
