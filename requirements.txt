@@ -6,4 +6,4 @@ langchain-huggingface
 huggingface-hub
 python-dotenv
 faiss-cpu
-pypdf
+pypdf2
