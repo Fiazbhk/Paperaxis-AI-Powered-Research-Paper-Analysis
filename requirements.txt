@@ -6,6 +6,8 @@ langchain-huggingface
 langchain-text-splitters
 langchain-community
 huggingface-hub
+sentence-transformers
+torch
 python-dotenv
 faiss-cpu
 PyPDF2
